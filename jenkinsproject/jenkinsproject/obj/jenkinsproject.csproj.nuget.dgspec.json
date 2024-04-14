@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joykarmakar\\source\\repos\\jenkinsproject\\jenkinsproject\\jenkinsproject.csproj": {}
+    "C:\\Users\\joykarmakar\\joyDevops\\jenkinsproject\\jenkinsproject\\jenkinsproject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joykarmakar\\source\\repos\\jenkinsproject\\jenkinsproject\\jenkinsproject.csproj": {
+    "C:\\Users\\joykarmakar\\joyDevops\\jenkinsproject\\jenkinsproject\\jenkinsproject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joykarmakar\\source\\repos\\jenkinsproject\\jenkinsproject\\jenkinsproject.csproj",
+        "projectUniqueName": "C:\\Users\\joykarmakar\\joyDevops\\jenkinsproject\\jenkinsproject\\jenkinsproject.csproj",
         "projectName": "jenkinsproject",
-        "projectPath": "C:\\Users\\joykarmakar\\source\\repos\\jenkinsproject\\jenkinsproject\\jenkinsproject.csproj",
+        "projectPath": "C:\\Users\\joykarmakar\\joyDevops\\jenkinsproject\\jenkinsproject\\jenkinsproject.csproj",
         "packagesPath": "C:\\Users\\joykarmakar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joykarmakar\\source\\repos\\jenkinsproject\\jenkinsproject\\obj\\",
+        "outputPath": "C:\\Users\\joykarmakar\\joyDevops\\jenkinsproject\\jenkinsproject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -47,6 +47,10 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.18, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.5, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

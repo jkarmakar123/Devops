@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("206c8fce-1094-42ab-a1f8-a5bc298409dd")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("jenkinsproject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e18717b2e5fc96ba707cde14be8073b3461957d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("jenkinsproject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("jenkinsproject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
